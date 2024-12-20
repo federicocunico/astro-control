@@ -13,8 +13,8 @@ pip install pywin32
 
 1. Python requirements
 ```bash
-pip install astropy astroquery numpy opencv-python-headless
+pip install astropy astroquery numpy opencv-python
 ```
 
-2. Install Astrometry.net: Install the astrometry.net suite locally. Refer to: "Astrometry.net Installation". Local installations allow offline plate solving.
+2. Install Astrometry.net: Install the astrometry.net suite locally. Refer to: [Astrometry.net Installation](https://astrometry.net/doc/build.html). Local installations allow offline plate solving.
 
